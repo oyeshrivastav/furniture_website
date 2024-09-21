@@ -2,7 +2,7 @@
 
 A modern and responsive e-commerce platform for furniture, built with Next.js. This project allows users to browse, search, and purchase furniture items seamlessly. It includes product listings, a shopping cart, and a checkout system, providing a smooth user experience.
 
-**Features:- **
+**Features:-**
 1. Dynamic Product Pages: Each product has a dedicated page with detailed information and images
 2. Responsive Design: Optimized for desktop, tablet, and mobile devices using responsive layout techniques.
 3. Shopping Cart: Users can add, remove, and update items in their cart, with a dynamic total price calculation.
