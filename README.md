@@ -1,4 +1,5 @@
 🛋️ Furniture E-Commerce Website
+
 A modern and responsive e-commerce platform for furniture, built with Next.js. This project allows users to browse, search, and purchase furniture items seamlessly. It includes product listings, a shopping cart, and a checkout system, providing a smooth user experience.
 
 Features
