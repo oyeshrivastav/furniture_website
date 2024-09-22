@@ -19,3 +19,5 @@ A modern and responsive e-commerce platform for furniture, built with Next.js. T
 2. Install dependencies: npm install
 3. Run the development server: npm run dev
 4. Open http://localhost:3000 to view the app.
+
+**you can see the output here👉**: https://furniture-website-one.vercel.app/
